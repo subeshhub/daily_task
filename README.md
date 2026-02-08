@@ -6,7 +6,8 @@ daily tasks on python basics
 
 
 
-task\_1
+task\_2
 
-i learn how to use print statemant
+i learn how python run useing integers and complex numbers and floting points
+
 
