@@ -1,13 +1,13 @@
 # daily\_task
 
 daily tasks on python basics
-task3.py
+task4.py
 
 
 
 
-task\_3
+task\_4 
 
-i learn how to store the numbers and floting points and complex numbers list, tuple in python useing syntax
+i learn how to store type , value and unique identifires of integers ,floting points,complex numbers, list, tuple, set frozen set in python
 
 
