@@ -1,13 +1,13 @@
 # daily\_task
 
 daily tasks on python basics
-task4.py
+task5.py
 
 
 
 
-task\_4 
+task\_ 
 
-i learn how to store type , value and unique identifires of integers ,floting points,complex numbers, list, tuple, set frozen set in python
+i learn about ptrint function, nameing rules , differnt types of veriables, variables in indexing and slicing in python
 
 
