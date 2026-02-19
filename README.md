@@ -1,13 +1,13 @@
 # daily\_task
 
 daily tasks on python basics
-task5.py
+basic_sliceing.py
 
 
 
 
-task\_ 
+task\_ 6
 
-i learn about ptrint function, nameing rules , differnt types of veriables, variables in indexing and slicing in python
+i learn in this task how to sliceing and index work in python
 
 
